@@ -1,0 +1,1 @@
+ALTER TABLE "licenses" ADD COLUMN "curp" text DEFAULT '' NOT NULL;
